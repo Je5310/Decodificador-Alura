@@ -1,1 +1,1 @@
-Seja bem vindo ao Decodificador JOsé/Alura.
+Seja bem vindo ao Decodificador José/Alura.
